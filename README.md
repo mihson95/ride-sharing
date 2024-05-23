@@ -1,5 +1,7 @@
-# ride-sharing
+# Summary
 App based ride sharing algorithms
+
+## Description
 
 The entire work has been split into 3 parts:
 All parts are run in systematic order using the shellcomand.sh file, which is the primary executable
@@ -20,3 +22,4 @@ part III:(done in Java)
 Insertion Feasibility:
 1:algorithm to check if it is poossible to add a query to existing taxi schedules, and,if yes, 
   to find the best insertion possible 
+  
